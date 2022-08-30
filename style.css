@@ -239,7 +239,7 @@ h2 {
     .container {
         margin-top: 20px;
         display: flex;
-        margin-left: 1%;
+        margin-left: 200px;
         flex-wrap: nowrap;
     }
     
