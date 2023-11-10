@@ -12,11 +12,7 @@ header > a {
     color: #000;
 }
 
-#port {
-    margin-right: 20px;
-}
-
-#port, #eng {
+#title {
     font-family:'Segoe UI', sans-serif;
 }
 
@@ -102,26 +98,7 @@ a {
     padding-left: 40px;
     padding-right: 40px;
     transition: ease 0.2s;
-    box-shadow: 0 5px 20px 5px #111;
-}
-
-#scooby:hover {
-    transform: scale(1.02);
-}
-
-#kaylan:hover {
-    transform: scale(1.02);
-}
-
-#portfolio {
-    font-family: Verdana, sans-serif;
-    font-size: 20px;
-    text-align: center;
-}
-
-h2 {
-    margin-top: 0px;
-}
+    box-shadow: 0 5px 20px 5
 
 @media only screen and (min-width: 320px) {
     h2 {
